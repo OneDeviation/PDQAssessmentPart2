@@ -1,0 +1,25 @@
+{
+  "name": "applicant-version-set-algo-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "27.0.1",
+    "eslint": "7.32.0",
+    "jest": "27.0.6",
+    "parcel-bundler": "^1.6.1",
+    "ts-jest": "29.1.2"
+  },
+  "devDependencies": {
+    "typescript": "5.4.3"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
